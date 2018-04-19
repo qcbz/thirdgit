@@ -1,3 +1,3 @@
 class A{
-	haha
+	int a = 10
 }
